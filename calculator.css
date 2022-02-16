@@ -1,0 +1,24 @@
+/* .button {
+  background-color: blueviolet;
+} */
+.calculatorBody {
+  background-color: blueviolet;
+}
+
+.calculatorDisplay {
+  background-color: rgb(239, 239, 239);
+  height: fit-content;
+  overflow-wrap: break-word;
+}
+.amiContainer {
+  height: 100%;
+}
+#resultDisplay {
+  height: 40px;
+}
+#currentDisplay {
+  height: 40px;
+}
+.button:hover {
+  background-color: lightgrey;
+}
